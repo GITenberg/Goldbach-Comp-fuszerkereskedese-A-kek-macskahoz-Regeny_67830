@@ -1,0 +1,50 @@
+_repo: Goldbach-Comp-fuszerkereskedese-A-kek-macskahoz-Regeny_67830
+_version: 0.0.1
+contributor:
+  contributor:
+    agent_name: Mikszáth, Kálmán
+    aliases:
+    - Kálmán Mikszáth
+    - Mikszath, Kalman
+    birthdate: 1847
+    deathdate: 1910
+    gutenberg_agent_id: '26008'
+    url: http://www.gutenberg.org/2009/agents/26008
+    wikipedia:
+    - https://hu.wikipedia.org/wiki/Mikszáth_Kálmán_(író)
+    - https://en.wikipedia.org/wiki/K%C3%A1lm%C3%A1n_Miksz%C3%A1th
+  illustrator:
+    agent_name: Homicsko, Athanász
+    alias: Homicsko, Athanasz
+    gutenberg_agent_id: '54481'
+    url: http://www.gutenberg.org/2009/agents/54481
+creator:
+  author:
+    agent_name: Beöthy, László
+    alias: Beothy, Laszlo
+    birthdate: 1826
+    deathdate: 1857
+    gutenberg_agent_id: '54480'
+    url: http://www.gutenberg.org/2009/agents/54480
+    wikipedia: https://hu.wikipedia.org/wiki/Be%C3%B6thy_L%C3%A1szl%C3%B3_(%C3%ADr%C3%B3)
+description: ''
+gutenberg_issued: '2022-04-14'
+identifiers:
+  gutenberg: '67830'
+  lccn: '38016909'
+language: hu
+pgterms:marc905: 20220408025056bethy
+pgterms:marc906: '1908'
+pgterms:marc907: hu
+production_note: Albert László from page images generously made available by the Internet
+  Archive
+publication_note: Hungary :Franklin,1908.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PH'
+- !lcsh 'Hungarian fiction -- 19th century'
+- GITenberg
+title: 'Goldbach & Comp. fűszerkereskedése "A kék macskához": Regény'
+url: http://www.gutenberg.org/ebooks/67830
