@@ -18,6 +18,9 @@ contributor:
     alias: Homicsko, Athanasz
     gutenberg_agent_id: '54481'
     url: http://www.gutenberg.org/2009/agents/54481
+covers:
+- cover_type: archival
+  image_path: 67830-h/images/cover.jpg
 creator:
   author:
     agent_name: Beöthy, László
@@ -28,6 +31,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/54480
     wikipedia: https://hu.wikipedia.org/wiki/Be%C3%B6thy_L%C3%A1szl%C3%B3_(%C3%ADr%C3%B3)
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67830#Goldbach-Comp-fuszerkereskedese-A-kek-macskahoz-Regeny
 gutenberg_issued: '2022-04-14'
 identifiers:
   gutenberg: '67830'
